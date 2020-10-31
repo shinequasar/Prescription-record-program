@@ -113,7 +113,7 @@ This is a assignment on Java practice. (2019년 2학년 1학기)
 ![666](https://user-images.githubusercontent.com/40741363/97787572-7ee87380-1bf6-11eb-8ba3-c782e4eb1275.PNG)
 
 <br><br><br>
-## 구현결과인터페이스 및 클래스 목록
+## 구현결과
 ![777](https://user-images.githubusercontent.com/40741363/97787574-7f810a00-1bf6-11eb-95d7-3197c72968c6.PNG)
 ![888](https://user-images.githubusercontent.com/40741363/97787577-80b23700-1bf6-11eb-8268-64951ef24a27.PNG)
 ![999](https://user-images.githubusercontent.com/40741363/97787578-81e36400-1bf6-11eb-86fb-3c9a435c0a27.PNG)
